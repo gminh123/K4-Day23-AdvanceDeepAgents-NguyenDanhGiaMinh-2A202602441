@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "rdi_berkeley_llm_agent_history",
+    "url": "https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf",
+    "title": "History and Overview of LLM Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "arxiv_2309_07864",
+    "url": "https://arxiv.org/abs/2309.07864",
+    "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+    "date": "2023-09-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "arxiv_2406_05804v6",
+    "url": "https://arxiv.org/html/2406.05804v6",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "n.d.",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "hf_search_coala",
+    "url": "https://huggingface.co/papers/hf_search_coala",
+    "title": "Cognitive Architectures for Language Agents (CoALA)",
+    "date": "n.d.",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "web_anthropic_framework",
+    "url": "https://websource.example/anthropic_agent_framework",
+    "title": "Anthropic and Microsoft Agent Frameworks",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2607.05775",
+    "url": "https://arxiv.org/abs/2607.05775",
+    "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+    "date": "2026-07-07",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2603.22862",
+    "url": "https://arxiv.org/pdf/2603.22862",
+    "title": "Survey on Multi-tool LLM Agents: Progress and Challenges",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "ace-28954",
+    "url": "https://ace.ewapub.com/article/view/28954.pdf",
+    "title": "Empowering LLM-based Agents: Methods and Challenges in Tool Use",
+    "date": "n.d.",
+    "source": "web"
+  }
+]

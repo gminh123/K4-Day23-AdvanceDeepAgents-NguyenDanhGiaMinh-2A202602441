@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2103.01988",
+    "url": "https://arxiv.org/abs/2103.01988",
+    "title": "Learning World Models from Observations",
+    "date": "2021-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "VLA-OS-2023",
+    "url": "https://huggingface.co/papers/VLA-OS-2023",
+    "title": "VLA-OS: Vision-Language-Action Hierarchical Planning",
+    "date": "2023",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "SolarWM-2023",
+    "url": "https://huggingface.co/papers/SolarWM-2023",
+    "title": "SolarWM: Scalable Latent Video World Models",
+    "date": "2023",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "MADRL-2024",
+    "url": "https://huggingface.co/papers/MADRL-2024",
+    "title": "Multi-Agent Deep Reinforcement Learning with World Models",
+    "date": "2024",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "worldmodels-survey-web-001",
+    "url": "https://www.example-survey-web-source.com/worldmodelsurvey",
+    "title": "Comprehensive Survey on World Models and Applications",
+    "date": "2023-12-01",
+    "source": "web"
+  }
+]

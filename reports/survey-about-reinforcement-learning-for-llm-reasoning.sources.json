@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2512.12576",
+    "url": "https://huggingface.co/papers/2512.12576",
+    "title": "Coupled Variational Reinforcement Learning for Language Model General Reasoning",
+    "date": "2025-12-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2507.04136v2",
+    "url": "https://arxiv.org/html/2507.04136v2",
+    "title": "hf-daily paper on RL techniques for LLM reasoning",
+    "date": "N.d.",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "state-of-llms-2025",
+    "url": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+    "title": "The State Of LLMs 2025 by Sebastian Raschka",
+    "date": "2025-12-30",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "537d5aa768c2d534016a4d06f87bc8fb",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/file/537d5aa768c2d534016a4d06f87bc8fb-Paper-Conference.pdf",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "haoxianyue_rl_llm_2026",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3837057",
+    "title": "Reinforcement Learning in the Era of Large Language Models: Challenges and Opportunities",
+    "date": "2026",
+    "source": "web"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2404.14294",
+    "url": "https://arxiv.org/abs/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2025.emnlp-tutorials.1",
+    "url": "https://aclanthology.org/2025.emnlp-tutorials.1/",
+    "title": "Efficient Inference for Large Language Models - Algorithm, Model, and System (ACL Anthology)",
+    "date": "2025-11",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "Survey of Small Language Models: Architectures, Training and Compression Techniques",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2502.03460",
+    "url": "https://huggingface.co/papers/2502.03460",
+    "title": "Adapt-Pruner: Layer-wise Adaptive Structural Pruning for Efficient Small Language Models",
+    "date": "2025-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "ijcai2026-0627",
+    "url": "https://www.ijcai.org/proceedings/2026/0627.pdf",
+    "title": "Mapping the Efficiency Landscape of Small Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2510.03515",
+    "url": "https://huggingface.co/papers/2510.03515",
+    "title": "RAPID: An Efficient Reinforcement Learning Algorithm for Small Language Models",
+    "date": "2025-10-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2412.09990",
+    "url": "https://huggingface.co/papers/2412.09990",
+    "title": "Small Language Model as Data Prospector for Large Language Model",
+    "date": "2024-12-13",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "2406.11410",
+    "url": "https://huggingface.co/papers/2406.11410",
+    "title": "HARE: Leveraging Human Priors in Data Construction for Efficient Small Language Models",
+    "date": "2024-06-17",
+    "source": "hf-search"
+  }
+]

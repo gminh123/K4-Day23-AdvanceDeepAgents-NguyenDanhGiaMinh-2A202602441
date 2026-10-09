@@ -1,0 +1,114 @@
+[
+  {
+    "n": 1,
+    "id": "springer-2025-text-video-generators",
+    "url": "https://link.springer.com/article/10.1186/s40537-025-01314-3",
+    "title": "Text-to-video generators: a comprehensive survey",
+    "date": "2025-11-14",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "arxiv-2504.16081v1",
+    "url": "https://arxiv.org/html/2504.16081v1",
+    "title": "Survey of Video Diffusion Models: Foundations, Implementations, and Applications",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "springer-2025-video-diffusion-review",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "title": "Video diffusion generation: comprehensive review and open problems",
+    "date": "2025-08-20",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2511.21129",
+    "url": "https://huggingface.co/papers/2511.21129",
+    "title": "CtrlVDiff",
+    "date": "2025-11-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2401.01827",
+    "url": "https://huggingface.co/papers/2401.01827",
+    "title": "Moonshot",
+    "date": "2024-01-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2512.23576",
+    "url": "https://huggingface.co/papers/2512.23576",
+    "title": "LiveTalk",
+    "date": "2025-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2609.15863",
+    "url": "https://huggingface.co/papers/2609.15863",
+    "title": "LynnReal-Omni",
+    "date": "2026-09-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.12442",
+    "url": "https://huggingface.co/papers/2610.12442",
+    "title": "LEGO",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2609.38562",
+    "url": "https://huggingface.co/papers/2609.38562",
+    "title": "LongTake",
+    "date": "2026-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "springer-10462-026-11525-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical and experimental evaluations",
+    "date": "2026-03-19",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "springer-10.1007/s11704-025-51171-9",
+    "url": "https://link.springer.com/article/10.1007/s11704-025-51171-9",
+    "title": "Next-Gen AIGC: a review of multimodal foundation models for text-to-media innovations",
+    "date": "2026-02-20",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "springer-10.1007/s10462-026-11699-z",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11699-z",
+    "title": "Towards human-centered and efficient video synthesis: a survey of multimodal diffusion models",
+    "date": "2026-09-13",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "mdpi-2673-6470-6-1-23",
+    "url": "https://www.mdpi.com/2673-6470/6/1/23",
+    "title": "Generative AI for Text-to-Video Generation: Recent Advances and Future Directions",
+    "date": "2026-03-09",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2511.18780",
+    "url": "https://huggingface.co/papers/2511.18780",
+    "title": "ConceptGuard",
+    "date": "2025-11-24",
+    "source": "hf-search"
+  }
+]
